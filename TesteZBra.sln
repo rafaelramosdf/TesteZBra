@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteZBra.QuestaoUm.ParteUm", "TesteZBra.QuestaoUm.ParteUm\TesteZBra.QuestaoUm.ParteUm.csproj", "{BD1CE510-5179-4B9F-9364-22B567F653B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteZBra.QuestaoUm.ParteDois", "TesteZBra.QuestaoUm.ParteDois\TesteZBra.QuestaoUm.ParteDois.csproj", "{2285711D-D6C1-48D7-9F95-B69743245FAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BD1CE510-5179-4B9F-9364-22B567F653B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD1CE510-5179-4B9F-9364-22B567F653B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD1CE510-5179-4B9F-9364-22B567F653B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2285711D-D6C1-48D7-9F95-B69743245FAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2285711D-D6C1-48D7-9F95-B69743245FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2285711D-D6C1-48D7-9F95-B69743245FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2285711D-D6C1-48D7-9F95-B69743245FAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
