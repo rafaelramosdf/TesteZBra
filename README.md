@@ -1,26 +1,26 @@
 # TesteZBra
 
+------------------------------------------------
 RESPOSTAS QUESTÃO 1: 
+------------------------------------------------
+
+Resposta Parte 1: 
+Combinações possíveis: 1687
+
+------------------------------------------------
+
+Resposta Parte 2: 
+Combinações possíveis: 895
 
 
-Parte 1:
-
-R: Combinações possíveis: 1687
-
-
-Parte 2:
-
-R: Combinações possíveis: 895
-
-
+------------------------------------------------
 RESPOSTAS QUESTÃO 2:
+------------------------------------------------
 
+Resposta Parte 1: 
+A soma de verificação é: 8610
 
-Parte 1:
+------------------------------------------------
 
-R: A soma de verificação é: 8610
-
-
-Parte 2:
-
-R: N/A
+Resposta Parte 2: 
+N/A
