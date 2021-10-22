@@ -20,4 +20,4 @@ A soma de verificação é: 8610
 
 
 Parte 2: 
-N/A
+*
